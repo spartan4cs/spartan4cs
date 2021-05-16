@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hi there, thanks for stopping by, this is **Akash Kumbhare** from India.
+
+[![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=spartan4cs.spartan4cs)](https://github.com/spartan4cs/visitor-badge)
 <!--
 **spartan4cs/spartan4cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
