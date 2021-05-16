@@ -1,12 +1,12 @@
-### Hey 👋🏽, I'm [Akash!](https://sounishnath.netlify.app/) 
+### Hey 👋🏽, I'm [Akash!](https://github.com/spartan4cs) 
 
 <br/>
 
-<a href="https://twitter.com/sounish1">
-  <img align="left" alt="Aksah | Nath " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://twitter.com/aakash_kumbhare">
-  <img align="left" alt="Akash's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Akash | Kumbhare " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/akash-kumbhare-89b0ab43">
+  <img align="left" alt="Akash's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://www.instagram.com/spartan1cs/">
