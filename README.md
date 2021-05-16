@@ -31,7 +31,7 @@ Hi, I'm Akash Kumbhare, a Full Stack Developer 🚀 from India, Currently, I'm w
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭❤;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: **Sprinkle it up on a cool breeze**;
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akash-kumbhare-89b0ab43/) | [Instagram](https://www.instagram.com/spartan4cs/) ;
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akash-kumbhare-89b0ab43/) | [Instagram](https://www.instagram.com/spartan1cs/) ;
 - 📝[Resume](https://www.cakeresume.com/aakash-kumbhare)
 
 ### **Languages and Tools:**  
