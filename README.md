@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm Akash Kumbhare, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ and working in TIAA Mumbai. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Akash Kumbhare, a Full Stack Developer 🚀 from India, Currently, I'm working in TIAA Mumbai. Beside's programming, I enjoy eating food and traveling.
 
 <br />
 
