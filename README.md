@@ -25,9 +25,8 @@ Hi, I'm Akash Kumbhare, a Full Stack Developer 🚀 from India, Currently, I'm w
   
 ### **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Educatify - Google Classroom Clone](https://github.com/spartan4cs/Educatify);
+- 👨🏽‍💻 I’m currently working on [Facebook Clone](https://github.com/spartan4cs/fb);
 - 🌱 I’m currently learning the heats of Competitive coding (CP-Algorithms)⚔;
-- 👯 I’m looking to collaborate on [Algorithms-Visualizations](https://github.com/spartan4cs/Expenso) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭❤;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: **Sprinkle it up on a cool breeze**;
